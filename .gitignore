@@ -2,3 +2,4 @@ app.db
 /venv
 /migrations
 /.vscode
+*.pyc
